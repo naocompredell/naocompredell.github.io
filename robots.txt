@@ -1,1 +1,1 @@
-Sitemap: https://government.github.com/sitemap.xml
+Sitemap: http://www.naocompredell.com/sitemap.xml
